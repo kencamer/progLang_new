@@ -1,0 +1,25 @@
+body {
+    padding: 50px;
+    font-family: Arial, sans-serif;
+    background-image: url(bg.jpg);
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 50px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    background-color: #f8f9fa;
+    border-radius: 15px;
+
+
+}
+
+.form-group {
+    margin-bottom: 30px;
+}
+
+.form-control {
+    border-radius: 4px;
+
+}
